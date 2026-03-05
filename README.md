@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi, I'm Malindu Peiris 👋
 
-<!--
-**MalinduPeiris/MalinduPeiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development student at iCET Institute and also student at Sliit campus , Sri Lanka, passionate about building things with code and learning something new every day.
+ 
+### 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 Studying Software Development @ iCET | BSc. Software Engineering student @ SLIIT
+- 🌱 Currently learning Web Technologies & Programming
+- 💡 Enjoy turning ideas into real projects
+- 🤝 Open to collaborate and grow with others
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Technologies
+
+**Languages**
+  
+  JAVA 
+  HTML
+  JAVASCRIPT
+  C
+
+---
+
+**Tools & Platforms**
+
+  GIT
+  GITHUB
+  VS CODE 
+  INTELLIJ IDEA
+  UBUNTU
+  MYSQL
+  MONGO DB
+  FIGMA 
+
+---
+
+### 📫 Connect with Me
+
+  Linkedin - https://www.linkedin.com/in/malindu-sansika-peiris-7299aa283/
+  GitHub -  https://github.com/MalinduPeiris/MalinduPeiris/
+
+---
+
+*"Code. Learn. Build. Repeat."*
