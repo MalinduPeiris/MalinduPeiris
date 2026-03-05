@@ -38,7 +38,7 @@ I'm a Software Development student at iCET Institute and also student at Sliit c
 ### 📫 Connect with Me
 
   Linkedin - https://www.linkedin.com/in/malindu-sansika-peiris-7299aa283/
-  GitHub -  https://github.com/MalinduPeiris/MalinduPeiris/
+  GitHub -  https://github.com/MalinduPeiris
 
 ---
 
